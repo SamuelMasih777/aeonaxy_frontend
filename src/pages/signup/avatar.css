@@ -1,0 +1,14 @@
+.circular-preview {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 10px;
+    background-color: #f3f4f6;
+  }
+  
+  .circular-image-location {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
